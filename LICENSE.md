@@ -1,4 +1,4 @@
-# 
+# secure Automation for birdeye sniper bot | back-running & new-token-detection is the best birdeye sniper bot, featuring back-running and new-token-detection. Fast, smart, and
 
 
 
